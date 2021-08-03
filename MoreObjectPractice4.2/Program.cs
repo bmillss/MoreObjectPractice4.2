@@ -23,10 +23,16 @@ namespace MoreObjectPractice4._2
                 Description = des;
                 Price = pri;
             }
+            public MenuItem(int i, string n, decimal pri)
+            {
+                ID = i;
+                Name = n;
+                Price = pri;
+            }
 
             public void setName(string n)
             {
-                if (n.Length ==0)
+                if (n == null)
                 {
                     Name = "EMPTY";
                 }
@@ -51,7 +57,7 @@ namespace MoreObjectPractice4._2
 
             public void setDescription(string des)
             {
-                if (des.Length == 0)
+                if (des == null)
                 {
                     Description = "EMPTY";
                 }
@@ -86,7 +92,9 @@ namespace MoreObjectPractice4._2
         static void Main(string[] args)
         {
             MenuItem myMenu = new MenuItem(5, "footlong", "Subs", 15);
+            MenuItem myMenu2 = new MenuItem(5, "footlong", 12);
             Console.WriteLine(myMenu.ToString());
+            Console.WriteLine(myMenu2.ToString());
 
 
             /*So it seems that even though both the length and width were set to the same values it did not recognize that r1 and r2 were the same 
