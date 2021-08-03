@@ -1,0 +1,13 @@
+C:\Devbuild2021\MoreObjectPractice4.2\MoreObjectPractice4.2\bin\Debug\netcoreapp3.1\MoreObjectPractice4.2.exe
+C:\Devbuild2021\MoreObjectPractice4.2\MoreObjectPractice4.2\bin\Debug\netcoreapp3.1\MoreObjectPractice4.2.deps.json
+C:\Devbuild2021\MoreObjectPractice4.2\MoreObjectPractice4.2\bin\Debug\netcoreapp3.1\MoreObjectPractice4.2.runtimeconfig.json
+C:\Devbuild2021\MoreObjectPractice4.2\MoreObjectPractice4.2\bin\Debug\netcoreapp3.1\MoreObjectPractice4.2.runtimeconfig.dev.json
+C:\Devbuild2021\MoreObjectPractice4.2\MoreObjectPractice4.2\bin\Debug\netcoreapp3.1\MoreObjectPractice4.2.dll
+C:\Devbuild2021\MoreObjectPractice4.2\MoreObjectPractice4.2\bin\Debug\netcoreapp3.1\MoreObjectPractice4.2.pdb
+C:\Devbuild2021\MoreObjectPractice4.2\MoreObjectPractice4.2\obj\Debug\netcoreapp3.1\MoreObjectPractice4.2.csprojAssemblyReference.cache
+C:\Devbuild2021\MoreObjectPractice4.2\MoreObjectPractice4.2\obj\Debug\netcoreapp3.1\MoreObjectPractice4.2.AssemblyInfoInputs.cache
+C:\Devbuild2021\MoreObjectPractice4.2\MoreObjectPractice4.2\obj\Debug\netcoreapp3.1\MoreObjectPractice4.2.AssemblyInfo.cs
+C:\Devbuild2021\MoreObjectPractice4.2\MoreObjectPractice4.2\obj\Debug\netcoreapp3.1\MoreObjectPractice4.2.csproj.CoreCompileInputs.cache
+C:\Devbuild2021\MoreObjectPractice4.2\MoreObjectPractice4.2\obj\Debug\netcoreapp3.1\MoreObjectPractice4.2.dll
+C:\Devbuild2021\MoreObjectPractice4.2\MoreObjectPractice4.2\obj\Debug\netcoreapp3.1\MoreObjectPractice4.2.pdb
+C:\Devbuild2021\MoreObjectPractice4.2\MoreObjectPractice4.2\obj\Debug\netcoreapp3.1\MoreObjectPractice4.2.genruntimeconfig.cache
